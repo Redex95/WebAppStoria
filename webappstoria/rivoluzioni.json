@@ -1,0 +1,32 @@
+{
+  "rivoluzioni": [
+    {
+      "id": 0,
+      "nome": "Rivoluzione Scientifica",
+      "descrizione_breve": "Periodo di grandi scoperte scientifiche tra il XVI e il XVII secolo.",
+      "descrizione_lunga": "Fu un periodo di trasformazioni radicali nel pensiero scientifico tra il XVI e il XVII secolo. Figure come Copernico, Galileo, Keplero e Newton ridefinirono la comprensione dell'universo attraverso scoperte epocali che cambiarono profondamente la percezione della realtà fisica. Copernico propose il modello eliocentrico del sistema solare, mentre Galileo utilizzò l'osservazione astronomica per confermare questa teoria. Keplero scoprì le leggi del moto planetario, fondamentali per comprendere i movimenti celesti. Infine, Newton formulò le leggi della gravitazione universale e del moto meccanico, stabilendo le basi della fisica classica moderna. Queste innovazioni non solo migliorarono la nostra conoscenza dell'universo ma anche svilupparono il metodo scientifico come strumento fondamentale per indagare la natura.",
+      "path_immagine": "/assets/img/rivoluzione_scientifica.webp"
+    },
+    {
+      "id": 1,
+      "nome": "Rivoluzione Americana",
+      "descrizione_breve": "La guerra d'indipendenza delle colonie americane contro il dominio britannico.",
+      "descrizione_lunga": "Fu un conflitto cruciale che portò all'indipendenza delle tredici colonie americane dalla Gran Bretagna. Ispirata dagli ideali di libertà e autodeterminazione derivanti dall'Illuminismo europeo, questa rivoluzione segnò un punto di svolta nella storia mondiale moderna. La Dichiarazione d'Indipendenza del 1776 redatta da Thomas Jefferson proclamava i diritti inalienabili degli individui alla vita, alla libertà e alla ricerca della felicità. La guerra vide l'alleanza strategica con potenze europee come Francia e Spagna contro gli inglesi ed ebbe un esito decisivo con la vittoria franco-americana a Yorktown nel 1781. Il trattato di Parigi firmato nel 1783 riconobbe ufficialmente l'indipendenza delle colonie americane dando vita agli Stati Uniti d'America.",
+      "path_immagine": "/assets/img/rivoluzione_americana.webp"
+    },
+    {
+      "id": 2,
+      "nome": "Rivoluzione Francese",
+      "descrizione_breve": "Un evento epocale che trasformò la Francia e l'Europa tra il 1789 e il 1799.",
+      "descrizione_lunga": "Fu un evento epocale che trasformò profondamente non solo la Francia ma anche tutta l'Europa tra il 1789 e il 1799. Iniziata con lo scopo di riformare una monarchia assoluta in crisi economica ed istituzionale, si evolvette rapidamente in una vera rivolta popolare contro i privilegi feudali dell'aristocrazia francese e contro lo strapotere monarchico assolutista dei Borboni francesi (Luigi XVI). I principali obiettivi furono quelli di instaurare una repubblica democratica basata sui valori universali enunciati nella Dichiarazione dei Diritti dell’Uomo e del Cittadino adottata nell’agosto del 1789: libertà individuale ed eguaglianza davanti alla legge furono i pilastri su cui si costruì questo nuovo ordine politico-sociale.",
+      "path_immagine": "/assets/img/rivoluzione_francese.webp"
+    },
+    {
+      "id": 3,
+      "nome": "Rivoluzione Industriale",
+      "descrizione_breve": "Un periodo di trasformazioni economiche e tecnologiche tra il XVIII e il XIX secolo.",
+      "descrizione_lunga": "Fu un processo storico caratterizzato da trasformazioni economiche tecnologiche sociali avvenute principalmente tra XVIII-XIX secolo inizialmente nella Gran Bretagna prima diffondendosi poi a livello globale. Questa fase segnò passaggio dall’economia agricola tradizionale al sistema industriale manifatturiero grazie all’introduzione macchine a vapore motorizzazione meccanizzazione tessile metallurgia chimiche nuove fonti energia quali carbone petrolio gas naturale. Innovazioni tecnologiche permisero aumento produttività riducendo costumanento manodopera necessaria produzione beni consumo facilitando espansione commercio internazionale urbanizzazione masse lavorative migranti campagna città creando nuove classi sociali borghesia operaio urbano.",
+      "path_immagine": "/assets/img/rivoluzione_industriale.webp"
+    }
+  ]
+}

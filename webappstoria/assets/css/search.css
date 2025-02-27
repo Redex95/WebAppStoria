@@ -1,0 +1,75 @@
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.search-input-theme{
+    color: black;
+    padding: 10px;
+    border-radius:10px ;
+    border: none;
+}
+
+#basic-addon1{
+    border: 10px 0 0 10px;
+}
+
+
+/*cards*/
+.card{
+
+    width: 25rem !important;
+    min-height: 20rem;
+    animation: fadeInUp .8s ease-out forwards;
+    border: 2px solid rgba(0, 0, 0, 1);
+    overflow: hidden;
+}
+.btn-container{
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+}
+
+#save{
+    z-index: 10;
+    width: 40px;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+
+}
+.saved path{
+    fill: yellow;   
+}
+
+#card-container{
+    align-items: center !important;
+    justify-content: center !important;
+    flex: 2;
+    width: 60%;
+    font-weight: 600;
+  
+  }
+
+.card-img-top{
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 0;
+    display: block;
+} 
+
+.no-card{
+    color: white;
+    text-align: center;
+}
+
+@media screen and (max-width:530px) {
+    #card-container{
+      width: 90% !important;
+    }
+  }

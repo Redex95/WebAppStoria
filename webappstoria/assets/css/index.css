@@ -1,0 +1,24 @@
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+}
+
+#materie-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  width: 80%;
+}
+
+#rivoluzioni{
+  cursor: pointer;
+  transition: all .4s;
+}
+#rivoluzioni:hover{
+  box-shadow: 0 0 10px black;
+}
